@@ -1,4 +1,4 @@
-![logo](https://github.com/AnasRais12/AnasRais12/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Anas Baig</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
