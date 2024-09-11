@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anas Baig</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3> <br> 
 
- <img align="right" width="500" height="300" src="81178b47a8598f0c81c4799f2cdd4057.gif" alt="anasrais12" />
+ <img align="right" width="400" height="300" src="81178b47a8598f0c81c4799f2cdd4057.gif" alt="anasrais12" />
 
 - 🌱 I’m currently learning **TypeScript, Node.js , Adonis.js**
 
