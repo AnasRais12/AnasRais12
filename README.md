@@ -2,7 +2,7 @@
 <h1 align="center" style="margin-bottom: 20px;">Hi 👋, I'm Anas Baig</h1>
 <h3 align="center" style="margin-bottom: 30px;">A passionate Frontend Developer from <span style="color: blue;">Pakistan</span></h3> 
 
-<img align="center" width="100%" height="400" src="81178b47a8598f0c81c4799f2cdd4057.gif" alt="anasrais12" style="margin-bottom: 30px;" />
+<img align="center" width="100%" height="300" src="81178b47a8598f0c81c4799f2cdd4057.gif" alt="anasrais12" style="margin-bottom: 30px;" />
 
 <p align="center" style="margin-bottom: 30px;">
   - 🌱 I’m currently learning **TypeScript, Node.js, Adonis.js**<br>
